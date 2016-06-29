@@ -6,7 +6,7 @@
  - Github：http://github.com/Maru-zhang
  - 技术博客：http://maru-zhang.tk
  -Email：maru-zhang@foxmail.com
- - 手机：13002605806 || 15643183572
+ - 手机：13002605806
  - 本科/长春工业大学数字媒体技术专业 
  - 期望职位：iOS开发工程师（实习）
  - 期望薪资：5k
