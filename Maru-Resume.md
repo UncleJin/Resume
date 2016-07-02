@@ -78,5 +78,5 @@
 - 多线程技术：GCD/NSThread/NSOperation
 - 本地存储：Realm/CoreData/SQLite3
 - 网络框架：AFNetworking/Alamofire/SDWebImage/SwiftyJSON等
-- 实用技术: Git版本控制/XCTest单元测试/Runtime/Runloop
-- 自我评价:具备良好的编程习惯以及命名习惯，具备一定的数据结构与算法知识
+- 实用技术: Git版本控制/XCTest单元测试/Runtime/Runloop/CoreAnimation/Instrument
+- 自我评价:-熟悉HTTP/JSON和XML等网络协议,具备良好的编程习惯以及命名习惯，具备一定的数据结构与算法知识,勤奋刻苦,认真严谨
