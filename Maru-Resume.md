@@ -2,19 +2,26 @@
 # 个人信息
 
  - 张斌辉/男/1995/CET4
- - 开发经验：1年
- - Github：http://github.com/Maru-zhang
- - 技术博客：http://maru-zhang.tk
+ - 开发经验：2年
+ - Github：http://github.com/Maru-zhang （较为活跃的Github账号，有自己的开源项目100+Star，同时也参与过其他的开源项目，比如：ChatKit）
+ - 技术博客：http://www.jianshu.com/u/ca70fc4d40da
  - Email：maru-zhang@foxmail.com
  - 手机：13002605806
- - 本科 / 长春工业大学-数字媒体技术专业 
+ - 本科 / 长春工业大学
  - 期望职位：iOS开发工程师
- - 期望薪资：5k
- - 期望城市：上海,杭州
+ - 期望城市：杭州
 
 ---
 
 # 工作经验
+
+## 杭州晓宇科技有限公司 （ 2016年7月 ~ 至今）
+
+### 工作职责：
+
+1.担任iOS主程，独立负责公司iOS项目的开发迭代以及维护。
+2.参与项目需求讨论，与后台沟通讨论，最终敲定实现方案。
+3.保持项目持续集成，适应高强度的需求变更，快速迭代的同时保证代码质量。
 
 ## 长春智信创联有限公司 （ 2015年9月 ~ 2016年1月 ）
 
@@ -64,7 +71,7 @@
 ---
 
 ## 技术文章
-> 注:首篇文章单篇简书阅读量4000+,喜欢150+
+> 注:文章总阅读量23000+,喜欢400+
 
 - [浅谈iOS视频播放的N种解决方案](http://www.jianshu.com/p/3618a9116660)
 - [关于Storyboard你也许不知道的小秘密](http://www.jianshu.com/p/0a7974ddd355)
@@ -73,10 +80,10 @@
 # 专业技能
 
 - 编程语言：Objective-C/Swift/Python/C
-- 重量级框架：Reactive Cocoa/Cocoa Touch
-- 设计模式： MVC/MVCS/MVVM
+- 重量级框架：Reactive Cocoa/RxSwift/Cocoa Touch
+- 设计模式： MVC/MVCS/MVVM/VIPER
 - 多线程技术：GCD/NSThread/NSOperation
 - 本地存储：Realm/CoreData/SQLite3
 - 网络框架：AFNetworking/Alamofire/SDWebImage/SwiftyJSON等
-- 实用技术: Git版本控制/XCTest单元测试/Runtime/Runloop/CoreAnimation/Instrument
-- 自我评价:-熟悉HTTP/JSON和XML等网络协议,具备良好的编程习惯以及命名习惯，具备一定的数据结构与算法知识,勤奋刻苦,认真严谨
+- 实用技术: Jenkins持续集成/Git版本控制/XCTest单元测试/Runtime/Runloop/CoreAnimation/Instrument
+- 自我评价:-熟悉HTTP/JSON和XML等网络协议,具备良好的编程习惯以及命名习惯。具备一定的全栈能力，无论对于后端还是Web前端抑或Android都略有了解，对新技术有浓厚的兴趣，并且热衷实践和技术分享。具备一定的数据结构与算法知识,勤奋刻苦,认真严谨
