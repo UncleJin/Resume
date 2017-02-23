@@ -1,9 +1,9 @@
 
 # 个人信息
 
- - 张斌辉/男/1995/CET4
- - 开发经验：2年
- - Github：http://github.com/Maru-zhang （较为活跃的Github账号，有自己的开源项目100+Star，同时也参与过其他的开源项目，比如：ChatKit）
+ - 张斌辉 / 男 / 1995 / CET4
+ - 工作经验: 1年 && 开发经验: 2年
+ - Github：http://github.com/Maru-zhang 
  - 技术博客：http://www.jianshu.com/u/ca70fc4d40da
  - Email：maru-zhang@foxmail.com
  - 手机：13002605806
@@ -13,15 +13,31 @@
 
 ---
 
+# 开源
+> 概述：三年Github活跃经验，前端、后端、移动端均有涉猎，在`Github`上有迹可循，给`千级Star`的项目（[ChatKit](https://github.com/leancloud/ChatKit-OC)）提过PR并且Merge，广泛关注各类开源项目，个人账号`contributions`数1300+，开源项目Star数150+,相关文章阅读25000+。
+
+### （1）MARNetwork
+
+【概述】：灵感来自于 Moya && Masonry && YTKNetwork,是一款基于 ReactiveCocoa 和 AFNetwork 的`High Level`网络层。
+
+【特性】：（1） 链式调用，可读性强。（2） 衔接RAC，支持函数响应编程。（3）轻量级，支持常用HTTP请求。
+
+### （2）MARVideoPlayer
+
+【概述】：基于VLCMobileKit的二次开发的一款播放器，支持AVFoundation所不支持的视频格式，同时也支持播放几乎所有的音频。
+
+【特性】：（1）几乎支持所有音视频格式。（2）支持常用手势，视频横竖播放。（3）支持本地和网络资源的播放。
+
+### （3）其他开源项目详情请移步Github ...
 # 工作经验
 
 ## 杭州晓宇科技有限公司 （ 2016年7月 ~ 至今）
 
 ### 工作职责：
 
-1. 担任iOS主程，独立负责公司iOS项目的开发迭代以及维护。
+1. 担任iOS主程，独立负责公司iOS项目的开发迭代以及维护。参与项目需求讨论，与后台沟通讨论，最终选择实现方案。
 
-2. 参与项目需求讨论，与后台沟通讨论，最终敲定实现方案。
+2. 参与对APP的架构设计，进行整体路由系统，缓存系统，网络层的开发。适配机型，适配系统版本。
 
 3. 保持项目持续集成，适应高强度的需求变更，快速迭代的同时保证代码质量。
 
