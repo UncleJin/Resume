@@ -93,6 +93,11 @@
 - [关于Storyboard你也许不知道的小秘密](http://www.jianshu.com/p/0a7974ddd355)
 - [如何用Flask快速搭建你APP的接口](http://www.jianshu.com/p/0c3bd0230564) 
 
+## 在校获奖
+
+- 大学生创新创业大赛国家级优秀项目
+- 全国互联网“+”大赛省级立项
+
 # 专业技能
 
 - 编程语言：Objective-C/Swift/Python/C
