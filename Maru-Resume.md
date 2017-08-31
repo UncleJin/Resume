@@ -1,10 +1,10 @@
 
 # 个人信息
 
- - 张斌辉 / 男 / 1995 / CET4
+ - 张斌辉 / 男 / 1995
  - 工作经验: 1年 && 开发经验: 2年
  - Github：http://github.com/Maru-zhang 
- - 技术博客：http://www.jianshu.com/u/ca70fc4d40da
+ - 技术博客：http://js.maru-zhang.cn
  - Email：maru-zhang@foxmail.com
  - 手机：13002605806
  - 本科 / 长春工业大学
@@ -14,7 +14,7 @@
 ---
 
 # 开源
-> 概述：三年Github活跃经验，前端、后端、移动端均有涉猎，在`Github`上有迹可循，给`千级Star`的项目（[ChatKit](https://github.com/leancloud/ChatKit-OC)）提过PR并且Merge，广泛关注各类开源项目，个人账号`contributions`数1300+，开源项目Star数150+,相关文章阅读25000+。
+> 概述：三年Github活跃经验，前端、后端、移动端均有涉猎，在`Github`上有迹可循，给`千级Star`的项目（[ChatKit](https://github.com/leancloud/ChatKit-OC)）提过PR并Merge，广泛关注各类开源项目，个人账号`contributions`数1300+，开源项目Star数300+,相关文章阅读40000+。
 
 ### （1）MARNetwork
 
@@ -64,9 +64,11 @@
 
 * **项目职责**:
 
-> 1. 采用基于CocoaPods的模块化开发，方便大型项目中开发人员各司其职，并且所有业务线都可以共享开发成果。
-> 2. 在模块化的基础上，采用协议的方式统一调用方式，使得H5模块、React Native模块和原生模块可以无缝衔接，方便前端和移动端的协调工作，给项目动态化的能力。
-> 3. 在各个模块中，使用了RxSwift作为函数响应式的重量级框架，简化代码。从面相对象的思想转变成面向协议面向响应式开发，全篇贯彻流式思维。
+> 1. 采用基于CocoaPods的模块化开发，方便大型项目中开发人员各司其职，并且所有业务线均可独立并行。
+> 
+> 2. 在模块化的基础上，采用协议的方式统一调用方式，使得H5模块、RN模块和Native模块可以无缝衔接，方便前端和移动端的协调工作，给项目动态化的能力。
+> 3. 在各个模块中，使用了RxSwift作为函数响应式的重量级框架，简化代码。从面相对象的思想转变成面向协议、面向函数响应式开发，全篇贯彻流式思维。
+> 4. 维护开发公共组件，为业务提供高可用代码。于此同时，为组件编写清晰、明确、高效的单元测试以及UI测试，保证组件的持续健壮性。
 
 2.**项目名称**:一周CP (最高上过AppStore社交榜14名，日活10W级别)
 
@@ -102,7 +104,7 @@
 > 2. Swift2.2开发，使用VLCMobileVLCKit完成iOS端rmvb,mkv等视频格式的在线播放,完成缓存功能,使用XCTest完成网络模块的单元测试。
 
 # 技术文章
-> 注:文章总阅读量25000+,喜欢500+
+> 注:文章总阅读量40000+,喜欢600+
 
 - [浅谈iOS视频播放的N种解决方案](http://www.jianshu.com/p/3618a9116660)
 - [领略RxSwift源码- Subscribe Flow](http://www.jianshu.com/p/af17ba8e5d14)
@@ -121,7 +123,7 @@
 - 多线程技术：GCD/NSThread/NSOperation
 - 本地存储：Realm/CoreData/SQLite3
 - 网络框架：AFNetworking/Alamofire/SDWebImage/SwiftyJSON等
-- 实用技术: Jenkins持续集成/Git版本控制/XCTest单元测试/Runtime/Runloop/CoreAnimation/Instrument
+- 实用技术: Jenkins CI/Git/XCTest/Runtime/Runloop/CoreAnimation/Instrument
 
 # 自我评价
 
